@@ -1,4 +1,5 @@
 source ~/.config/fish/git_utility.fish
+source ~/.config/fish/functions/archive_utils.fish
 source ~/.asdf/asdf.fish
 
 
